@@ -1,0 +1,13 @@
+[versions]
+pixelsystem = "1.7.2"
+
+[libraries]
+api = { group = "de.dasbabypixel.system", name = "pixelsystem-api", version.ref = "pixelsystem" }
+api-cloudnet = { group = "de.dasbabypixel.system", name = "pixelsystem-api-cloudnet", version.ref = "pixelsystem" }
+bukkit = { group = "de.dasbabypixel.system", name = "pixelsystem-bukkit", version.ref = "pixelsystem" }
+kyori-wrapper = { group = "de.dasbabypixel.system", name = "pixelsystem-kyori-wrapper", version.ref = "pixelsystem" }
+libs = { group = "de.dasbabypixel.system", name = "pixelsystem-libs", version.ref = "pixelsystem" }
+minestom = { group = "de.dasbabypixel.system", name = "pixelsystem-minestom", version.ref = "pixelsystem" }
+proxy = { group = "de.dasbabypixel.system", name = "pixelsystem-proxy", version.ref = "pixelsystem" }
+server = { group = "de.dasbabypixel.system", name = "pixelsystem-server", version.ref = "pixelsystem" }
+server-cloudnet = { group = "de.dasbabypixel.system", name = "pixelsystem-server-cloudnet", version.ref = "pixelsystem" }
