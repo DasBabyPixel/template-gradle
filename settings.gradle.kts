@@ -2,7 +2,6 @@ enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
     repositories {
-        gradlePluginPortal()
         maven("https://reposilite.dasbabypixel.de/dasbabypixel") {
             name = "DasBabyPixel"
             credentials(PasswordCredentials::class)
