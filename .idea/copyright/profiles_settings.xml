@@ -1,7 +1,10 @@
 <component name="CopyrightManager">
-  <settings>
+  <settings default="DasBabyPixel">
     <module2copyright>
-      <element module="All" copyright="DarkCube" />
+      <element module="Project Files" copyright="DasBabyPixel" />
     </module2copyright>
+    <LanguageOptions name="Kotlin">
+      <option name="fileTypeOverride" value="1" />
+    </LanguageOptions>
   </settings>
 </component>
