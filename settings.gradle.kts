@@ -17,7 +17,7 @@ dependencyResolutionManagement {
 }
 
 plugins {
-    id("de.dasbabypixel") version "1.10.6"
+    id("de.dasbabypixel") version "1.10.7"
 }
 
 rootProject.name = "GradleTemplate"
